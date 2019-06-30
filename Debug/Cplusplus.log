@@ -1,2 +1,3 @@
-﻿  Bai22.cpp
+﻿  Bai23.cpp
+C:\Users\ADMIN\source\repos\Cplusplus\Cplusplus\Bai23.cpp(40,13): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
   Cplusplus.vcxproj -> C:\Users\ADMIN\source\repos\Cplusplus\Debug\Cplusplus.exe
