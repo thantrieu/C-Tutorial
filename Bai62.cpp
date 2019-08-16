@@ -1,7 +1,6 @@
 /*
 	Override
 */
-
 #include <iostream>
 using namespace std;
 
@@ -17,7 +16,6 @@ public:
 	void move() override {
 		cout << "Bird is flying..." << endl;
 	}
-
 };
 
 class Fish : public Animal {
@@ -30,18 +28,22 @@ public:
 class Cat : public Animal {
 public:
 	void move() override {
-		cout << "Cat is running on the ground.." << endl;
+		cout << "Cat is running on the ground..." << endl;
 	}
 };
 
 int main() {
 	Animal* a = new Bird();
 	a->move();
-	a = new Animal();
-	a->move();
-	a = new Cat();
-	a->move();
+	
 	a = new Fish();
 	a->move();
+
+	a = new Animal();
+	a->move();
+
+	a = new Cat();
+	a->move();
+
 	return 0;
 }
