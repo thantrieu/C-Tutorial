@@ -201,6 +201,15 @@
     <ClCompile Include="Bai66C.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai67.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai68.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai69.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyAction.h">
@@ -218,6 +227,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="input3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
