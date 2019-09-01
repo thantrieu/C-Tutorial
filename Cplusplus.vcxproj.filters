@@ -210,6 +210,9 @@
     <ClCompile Include="Bai69.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Advance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyAction.h">
@@ -230,6 +233,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inputA.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
