@@ -213,12 +213,27 @@
     <ClCompile Include="Advance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NameSpace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSpaceExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoKeyword.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyAction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="AB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NameSpaceExample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
